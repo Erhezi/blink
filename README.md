@@ -1,2 +1,3 @@
 # blink
-blinks tell 
+
+blinks can tell many stories, so may be first do a blink detection desktop app? If there are some wild data couples blinks and attention/emotion/disease status/neuro activies that would be really really really interesting...
